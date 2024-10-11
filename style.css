@@ -146,5 +146,7 @@ i{
     .message{
         font-size: 14px;
     }
-    
+    #messageInput{
+        min-width: 100px;
+    }
 }

@@ -119,7 +119,7 @@ i{
 /* Media queries for smaller devices */
 @media screen and (max-width:600px) {
     .chat-container{
-        width: 100%;
+        width: 98%;
         height: 90vh;
         border-radius: 0;
     }

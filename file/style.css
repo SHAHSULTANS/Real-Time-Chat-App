@@ -130,9 +130,13 @@ i{
     }
     .chat-header{
         padding: 10px;
+        border-radius: 0;
     }
     .chat-box{
         padding: 5px;
+    }
+    .chat-input{
+        border-radius: 0;
     }
     #messageInput{
         padding: 8px;

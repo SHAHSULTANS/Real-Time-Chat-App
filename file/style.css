@@ -15,7 +15,7 @@ body{
 }
 .chat-container{
     width: 350px; 
-    height: 600px;
+    height: 95vh;
     background-color: #fff;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
     display: flex;

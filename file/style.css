@@ -118,7 +118,12 @@ i{
 
 /* Media queries for smaller devices */
 @media screen and (max-width:600px) {
+    body{
+        position: relative;
+    }
     .chat-container{
+        position: absolute;
+        top: 5px;
         width: 98%;
         height: 90vh;
         border-radius: 0;

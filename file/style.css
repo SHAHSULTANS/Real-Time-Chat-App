@@ -14,7 +14,7 @@ body{
     height: 100vh;
 }
 .chat-container{
-    width: 350px; 
+    width: 450px; 
     height: 95vh;
     background-color: #fff;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
